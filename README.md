@@ -82,10 +82,6 @@ assign f7=~(a^b);
 endmodule
 ```
 
-**Logic symbol & Truthtable**
-
-![logic diagram](https://github.com/user-attachments/assets/11d6b227-e8ce-425b-9e42-faf0f90ac403)
-
 
 **RTL realization Output:** 
 
@@ -94,7 +90,7 @@ endmodule
 
 **RTL**
 
-![Exp1](https://github.com/user-attachments/assets/a475b1fc-6f6c-4df9-b933-000cd037bbab)
+<img width="1881" height="352" alt="image" src="https://github.com/user-attachments/assets/ab438e0b-89f0-4e0e-b790-fb1ad755286a" />
 
 
 **Result:**
